@@ -1,6 +1,8 @@
 # Determining-pizza-type-with-image-processing
 Determining pizza type with image processing
 
+https://www.youtube.com/watch?v=g1fEpqQqbEY&feature=youtu.be
+
 Template matching method is preferred for object separation with image processing techniques.
 Template Matching; It is a technique used in image manipulation to find small parts of an image that match a template image.
 OpenCV comes with the cv.matchTemplate () function for this purpose. It simply scans by sliding the template image over the input image and compares the template image with the input image below the template image. Returns a grayscale image; where each pixel shows how much that pixel matches the template.
